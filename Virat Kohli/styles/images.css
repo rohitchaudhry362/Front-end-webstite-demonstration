@@ -1,0 +1,30 @@
+figure{
+	border: 1px solid black;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 10px;
+	margin-left: 40px;
+}
+figcaption{
+	font-weight: bold;
+	text-align: center;
+	margin-top: 5px;
+}
+figure img{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+figure img:hover {
+  transform: scale(1.1); 
+}
+#aside-right{
+	width: 200px;
+	height: 480px;
+}
+#aside-right img{
+	margin-top: 20px;
+}
+#aside-right figcaption{
+	margin-top: 20px;
+}
